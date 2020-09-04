@@ -132,7 +132,7 @@
     "karma-phantomjs-launcher": "~1.0.4",
     "karma-requirejs": "~1.1.0",
     "karma-script-launcher": "~1.0.0",
-    "marked": "0.6.2",
+    "marked": "1.1.1",
     "nightwatch": "^1.1.11",
     "nock": "^10.0.6",
     "nodemon": "1.19.1",
